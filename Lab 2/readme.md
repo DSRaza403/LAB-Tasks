@@ -65,9 +65,9 @@
 
 ### Step 10: Submission
 
-| No.  | Name | Github |Lab 1 | Lab 2 |
+| No.  | Name | Github |Lab 2(A) | Lab 2 |
 | ---: | ----------------------------------------- | :----------------------: | :----------------------: | :----------------------: | 
-| 1.   | Mohammed Raza         |  [:octocat:](https://github.com/DSRaza403) |<a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
+| 1.   | Mohammed Raza         |  [:octocat:](https://github.com/DSRaza403) |<a href="Lab 2/Lab_2(a)_Mohammed_Raza.ipynb"><img src="../../../images/colab.png" width="24px" height="24px"></a> | <a href=""><img src="../../../images/colab.png" width="24px" height="24px"></a> | 
 
 Good luck with your lab exercise!
 
